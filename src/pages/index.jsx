@@ -1,0 +1,23 @@
+export { default as Home } from './Home';
+export { default as Products } from './product/Products';
+export { default as Suppliers } from './supplier/Suppliers';
+export { default as AddSupplier } from './supplier/AddSupplier';
+export { default as EditSupplier } from './supplier/EditSupplier';
+export { default as Categorys } from './category/Categorys';
+export { default as AddCategory } from './category/AddCategory';
+export { default as EditCategory } from './category/EditCategory';
+export { default as Units } from './unit/Units';
+export { default as AddUnit } from './unit/AddUnit';
+export { default as EditUnit } from './unit/EditUnit';
+export { default as InvoiceField } from './invoice/InvoiceField';
+export { default as InvoiceForm } from './invoice/InvoiceForm';
+export { default as InvoiceItem } from './invoice/InvoiceItem';
+export { default as InvoiceModal } from './invoice/InvoiceModal';
+export { default as Pos } from './Pos';
+export { default as Stok } from './Stok/Stok';
+export { default as AddStok } from './Stok/AddStok';
+export { default as AddProduct } from './product/AddProduct';
+export { default as EditProduct } from './product/EditProduct';
+export { default as DataPenjualan } from './DataPenjualan';
+export { default as DetailPenjualan } from './DetailPenjualan';
+

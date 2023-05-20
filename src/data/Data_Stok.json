@@ -1,0 +1,52 @@
+[
+    {
+        "no": 1,
+        "id_transaksi": "INV0001",
+        "tgl_masuk": "12/3/2024",
+        "kode_produk": "BRG0001",
+        "nama_produk": "Mie Sedap Goreng",
+        "supplier": "PT Wings Food",
+        "jumlah_masuk": 1000,
+        "satuan": "Pcs"
+    },
+    {
+        "no": 2,
+        "id_transaksi": "INV0002",
+        "tgl_masuk": "12/3/2024",
+        "kode_produk": "BRG0002",
+        "nama_produk": "Mie Sedap Goreng Korean Spicy",
+        "supplier": "PT Wings Food",
+        "jumlah_masuk": 1000,
+        "satuan": "Pcs"
+    },
+    {
+        "no": 3,
+        "id_transaksi": "INV0003",
+        "tgl_masuk": "12/3/2024",
+        "kode_produk": "BRG0003",
+        "nama_produk": "Telur",
+        "supplier": "Pak Salim",
+        "jumlah_masuk": 100,
+        "satuan": "Biji"
+    },
+    {
+        "no": 4,
+        "id_transaksi": "INV0004",
+        "tgl_masuk": "12/3/2024",
+        "kode_produk": "BRG0004",
+        "nama_produk": "Minyak kita",
+        "supplier": "PT Panca Nabati Prakarsa",
+        "jumlah_masuk": 100,
+        "satuan": "Liter"
+    },
+    {
+        "no": 5,
+        "id_transaksi": "INV0005",
+        "tgl_masuk": "12/3/2024",
+        "kode_produk": "BRG0005",
+        "nama_produk": "Sabun Lifebuoy",
+        "supplier": "Unilever",
+        "jumlah_masuk": 100,
+        "satuan": "Pcs"
+    }
+]

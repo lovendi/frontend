@@ -1,0 +1,551 @@
+[
+{
+    "no": 1,
+    "kode_produk": "BRG0001",
+    "nama_produk": "Mie Sedap Goreng",
+    "kategori": "Bahan Pokok",
+    "stok": 1000,
+    "expired": "12/3/2024",
+    "modal": 2500,
+    "harga": 3500,
+    "satuan": "Pcs"
+},
+
+ {
+    "no" : 2,
+    "kode_produk" : "BRG0002",
+    "nama_produk": "Mie Sedap Goreng Korean Spicy",
+    "kategori": "Bahan Pokok",
+    "stok": 1000,
+    "expired": "12/3/2024",
+    "modal": 2500,
+    "harga": 3500,
+    "satuan": "Pcs"
+ },
+ {
+    "no" : 3,
+    "kode_produk" : "BRG0003",
+    "nama_produk": "Telur",
+    "kategori": "Bahan Pokok",
+    "stok": 100,
+    "expired": "12/3/2024",
+    "modal": 6000,
+    "harga": 8000,
+    "satuan": "Pack"
+ },
+ {
+    "no" : 4,
+    "kode_produk" : "BRG0004",
+    "nama_produk": "Minyak kita",
+    "kategori": "Bahan Pokok",
+    "stok": 100,
+    "expired": "12/3/2024",
+    "modal": 13000,
+    "harga": 14000,
+    "satuan": "Liter"
+ },
+ {
+    "no" : 5,
+    "kode_produk" : "BRG0005",
+    "nama_produk": "Sabun Lifebuoy",
+    "kategori": "Peralatan Mandi",
+    "stok": 100,
+    "expired": "12/3/2024",
+    "modal": 2000,
+    "harga": 3000,
+    "satuan": "Pcs"
+ },
+ {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+},
+{
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}, {
+   "no" : 5,
+   "kode_produk" : "BRG0005",
+   "nama_produk": "Sabun Lifebuoy",
+   "kategori": "Peralatan Mandi",
+   "stok": 100,
+   "expired": "12/3/2024",
+   "modal": 2000,
+   "harga": 3000,
+   "satuan": "Pcs"
+}
+
+]
